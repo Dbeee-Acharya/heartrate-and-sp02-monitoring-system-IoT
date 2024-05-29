@@ -1,5 +1,20 @@
-Code and documentation for smart health monitoring system using esp32
-IoT college project 
+<h1> Code and documentation for smart health monitoring system using esp32 </h1>
+<br>
+
+<h2>IoT college project </h2>
+
+
+<h2> Working Device Image </h2>
+<img src="./Images/device working.png"/>
+
+<br>
+
+<h2> Schemantic Diagram </h2>
+
+<img src="./Images/Sys arch.png"/>
+<br>
+
+<img src = "./Images/Schemantic.png"/>
 
 The maincode folder contains a cpp code named maincode
 The vsCode folder contains a cpp code named maincode
@@ -18,3 +33,6 @@ disconnect the heartrate sensor to make the temperature sensor work
 All the sensor related issues are because of insufficient voltage and can be fixed by using external power
 or by rerouting the power suppy to use both the 3.3v and 5v output power from the esp32 module
 
+<br>
+
+<img src = "./Images/3 dht11.jpg"/>
