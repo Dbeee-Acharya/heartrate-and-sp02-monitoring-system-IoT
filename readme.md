@@ -14,7 +14,7 @@
 <img src="./Images/Sys arch.png"/>
 <br>
 
-<img src = "./Images/Schemantic.png"/>
+<img src = "./Images/Schematic.png"/>
 
 The maincode folder contains a cpp code named maincode
 The vsCode folder contains a cpp code named maincode
